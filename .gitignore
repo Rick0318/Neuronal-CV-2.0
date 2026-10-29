@@ -1,0 +1,6 @@
+node_modules
+dist
+Neural-CV-Standalone.html
+*.local
+.DS_Store
+Thumbs.db
